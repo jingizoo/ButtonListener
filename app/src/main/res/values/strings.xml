@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ButtonListener</string>
+    <string name="strBtnHide">Hide</string>
+    <string name="strBtnShow">Show</string>
+</resources>
